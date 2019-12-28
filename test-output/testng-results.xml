@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5324" started-at="2019-12-27T11:41:58Z" finished-at="2019-12-27T11:42:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5324" started-at="2019-12-27T11:41:58Z" finished-at="2019-12-27T11:42:04Z">
+      <class name="Admin_Home_page1">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Admin_Home_page1@3a82f6ef]" name="beforeClass" is-config="true" duration-ms="3631" started-at="2019-12-27T17:11:58Z" finished-at="2019-12-27T17:12:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Admin_Home_page1@3a82f6ef]" name="login" duration-ms="894" started-at="2019-12-27T17:12:02Z" finished-at="2019-12-27T17:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="personal()[pri:2, instance:Admin_Home_page1@3a82f6ef]" name="personal" duration-ms="48" started-at="2019-12-27T17:12:03Z" finished-at="2019-12-27T17:12:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personal -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Admin_Home_page1@3a82f6ef]" name="afterClass" is-config="true" duration-ms="726" started-at="2019-12-27T17:12:03Z" finished-at="2019-12-27T17:12:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Admin_Home_page1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
